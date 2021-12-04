@@ -1,0 +1,2 @@
+https://shouts.dev/laravel-spa-with-vue3-auth-crud-example#step1
+https://www.positronx.io/php-laravel-crud-operations-mysql-tutorial/
